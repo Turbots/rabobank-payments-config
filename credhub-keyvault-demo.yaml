@@ -6,3 +6,5 @@ azure:
     client-id: 632c686e-1239-4fa6-82f8-807e74da344b
     client-key: 1e746734-2b1e-49d2-a7f8-fe11e43dd6ad
     tenant-id: 29248f74-371f-4db2-9a50-c62a6877a0c1
+    secret:
+      keys: supersecret
