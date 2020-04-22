@@ -8,3 +8,4 @@ azure:
     tenant-id: 29248f74-371f-4db2-9a50-c62a6877a0c1
     secret:
       keys: supersecret
+    refresh-interval: 5000
